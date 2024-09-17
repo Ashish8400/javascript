@@ -16,3 +16,25 @@ console.log(typeof ashhs)
 
 //typeof is use for check for type of variable 
 //last is symbol type 
+//example of data type 
+
+// number
+ let roll = 223455325
+ let no = 840044
+
+//string 
+ let naam = "ashish"
+ let lastname = "yaduvanshi"
+
+// Booleans
+ let x = true;
+ let y = false;
+
+// Object:
+ const person = {firstName:"John", lastName:"Doe"};
+
+// Array object:
+ const cars = ["Saab", "Volvo", "BMW"];
+
+// Date object:
+ const date = new Date("2022-03-25");
