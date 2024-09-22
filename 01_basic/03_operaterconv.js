@@ -53,3 +53,14 @@ let name="ashish"
 * comparison operater => ++ <> 
 * bitwise operater => & | ^ 
 * type operater */
+
+console.log("ashish" + 18);//this output is ashish18
+console.log(18 + "ashish");//his ouput is 18ashish
+console.log(18+19+"ashish");//his output is 37ashish
+console.log("ashish" + 12+18);//his output is ashish1218
+/**
+ * basicallythere is a senario 
+ * if your operation started from string data type then then its perform concatination
+ * and the thre is number data type then its addition
+ */
+
